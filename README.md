@@ -51,7 +51,7 @@ Desarrollar un piano digital interactivo que permita a estudiantes aprender y pr
 ![Diagrama de Bloques](imagenes/DIAGRAMA_DE_BLOQUES.jepg)
 
 ### 📌 Diagrama de Contexto
-![Diagrama de Contexto](imagenes/DIAGRAMA_SOFTWARE.jEpg)
+![Diagrama de Contexto](imagenes/DIAGRAMA_DE_SOFTWARE.jepg)
 
 ### 📌 HMI VISUAL
 ![HMI](imagenes/HMI_VISUAL.jepg)
