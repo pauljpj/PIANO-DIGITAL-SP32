@@ -2,7 +2,7 @@
 Piano electrónico con conectividad en SP32
 # 🎹 Proyecto: Piano Digital Educativo
 
-## 📖 Introducción
+## Introducción
 Este proyecto consiste en el desarrollo de un **piano digital educativo** que combina hardware y software para facilitar el aprendizaje musical.  
 El sistema integra una **ESP32** para la gestión de teclas y generación de señales MIDI, una **Raspberry Pi** para el procesamiento de datos y una **interfaz gráfica (GUI)** desplegada en pantallas táctiles.  
 Además, se implementa un sistema en la nube para almacenar el progreso de los estudiantes y permitir a los padres y profesores hacer un seguimiento en tiempo real.
