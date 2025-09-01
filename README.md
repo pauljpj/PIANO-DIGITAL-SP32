@@ -47,4 +47,11 @@ Desarrollar un piano digital interactivo que permita a estudiantes aprender y pr
   - Base de datos en la nube (Firebase / PostgreSQL)  
 
 ## Diagramas
-### Diagrama de Bloques del Sistema
+### 📌 Diagrama de Bloques
+![Diagrama de Bloques](imagenes/DIAGRAMA_DE_BLOQUES.jpeg)
+
+### 📌 Diagrama de Contexto
+![Diagrama de Contexto](imagenes/DIAGRAMA_SOFTWARE.jpeg)
+
+### 📌 HMI VISUAL
+![HMI](imagenes/HMI_VISUAL.jpeg)
